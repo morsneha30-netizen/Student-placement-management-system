@@ -97,18 +97,16 @@ A student who fails either requirement is marked **NOT ELIGIBLE**, with the reas
 
 ## 👩‍💻 Project Team
 
-S. No.	Team Member Name	Registration Number
-1	Sneha Mor	251302184
-2	Vanshika	251302312
-3	Swecha	251302224
-4	Tamannna Chhikara	251302291
-
+| Team Member | Registration Number |
+|---|---|
+| Sneha Mor | 251302184 |
+| Vanshika | 251302312 |
+| Swecha | 251302224 |
+| Tamanna Chhikara | 251302291 |
 
 ## 🎓 Project Purpose
 
-This project demonstrates how fundamental Data Structures and Algorithms can be applied to a practical college placement scenario.
-
----
+This project demonstrates how fundamental Data Structures and Algorithms (DSA) can be applied to a practical college placement scenario.
 
 ⭐ **Student Placement Management System — Phase 2**
 
