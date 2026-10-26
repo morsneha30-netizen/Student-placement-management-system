@@ -96,13 +96,12 @@ A student who fails either requirement is marked **NOT ELIGIBLE**, with the reas
 - More efficient queue implementation using `collections.deque`.
 
 ## 👩‍💻 Project Team
-## 👩‍💻 Project Team
 
-| S. No. | Team Member Name | Registration Number |
-| 1 | Sneha Mor | 251302184 |
-| 2 | Vanshika | 251302312 |
-| 3 | Swecha | 251302224 |
-| 4 | Tamannna Chhikara | 251302291 |
+S. No.	Team Member Name	Registration Number
+1	Sneha Mor	251302184
+2	Vanshika	251302312
+3	Swecha	251302224
+4	Tamannna Chhikara	251302291
 
 
 ## 🎓 Project Purpose
